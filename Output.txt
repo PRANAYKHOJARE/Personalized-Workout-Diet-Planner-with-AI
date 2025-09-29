@@ -1,0 +1,49 @@
+Sample AI-generated student fitness plan
+
+Day 1 (2025-09-29T11:46:05.910865)
+Workout:
+  - 7:00 AM - Push-ups (3x12) [Bodyweight]
+  - 7:30 AM - Jogging (20 min) [Outdoor]
+Diet:
+  - Healthy Oatmeal Breakfast (Breakfast): Oatmeal with fruits (~350 kcal, P:12g C:60g F:6g)
+    Preparation Tips: Use instant oats for faster cooking.
+    Time-saving Suggestion: Prepare overnight oats.
+  - Grilled Chicken Salad Lunch (Lunch): Grilled chicken salad (~500 kcal, P:40g C:35g F:20g)
+    Preparation Tips: Grill chicken in bulk for multiple days.
+    Time-saving Suggestion: Chop veggies in advance.
+  - Veg Stir-Fry Dinner (Dinner): Vegetable stir-fry with rice (~450 kcal, P:15g C:70g F:10g)
+    Preparation Tips: Use pre-cut veggies from store.
+    Time-saving Suggestion: Cook rice in pressure cooker.
+Tips: Stay hydrated and sleep 7+ hours.
+
+Day 2 (2025-09-30T11:46:05.910893)
+Workout:
+  - 7:00 AM - Push-ups (3x12) [Bodyweight]
+  - 7:30 AM - Jogging (20 min) [Outdoor]
+Diet:
+  - Healthy Oatmeal Breakfast (Breakfast): Oatmeal with fruits (~350 kcal, P:12g C:60g F:6g)
+    Preparation Tips: Use instant oats for faster cooking.
+    Time-saving Suggestion: Prepare overnight oats.
+  - Grilled Chicken Salad Lunch (Lunch): Grilled chicken salad (~500 kcal, P:40g C:35g F:20g)
+    Preparation Tips: Grill chicken in bulk for multiple days.
+    Time-saving Suggestion: Chop veggies in advance.
+  - Veg Stir-Fry Dinner (Dinner): Vegetable stir-fry with rice (~450 kcal, P:15g C:70g F:10g)
+    Preparation Tips: Use pre-cut veggies from store.
+    Time-saving Suggestion: Cook rice in pressure cooker.
+Tips: Stay hydrated and sleep 7+ hours.
+
+Day 3 (2025-10-01T11:46:05.910909)
+Workout:
+  - 7:00 AM - Push-ups (3x12) [Bodyweight]
+  - 7:30 AM - Jogging (20 min) [Outdoor]
+Diet:
+  - Healthy Oatmeal Breakfast (Breakfast): Oatmeal with fruits (~350 kcal, P:12g C:60g F:6g)
+    Preparation Tips: Use instant oats for faster cooking.
+    Time-saving Suggestion: Prepare overnight oats.
+  - Grilled Chicken Salad Lunch (Lunch): Grilled chicken salad (~500 kcal, P:40g C:35g F:20g)
+    Preparation Tips: Grill chicken in bulk for multiple days.
+    Time-saving Suggestion: Chop veggies in advance.
+  - Veg Stir-Fry Dinner (Dinner): Vegetable stir-fry with rice (~450 kcal, P:15g C:70g F:10g)
+    Preparation Tips: Use pre-cut veggies from store.
+    Time-saving Suggestion: Cook rice in pressure cooker.
+Tips: Stay hydrated and sleep 7+ hours.
